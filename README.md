@@ -6,7 +6,10 @@
 <div align="center" style="background: linear-gradient(to bottom, #1a1b26, #24283b); padding: 24px; border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); margin: 20px 0;">
   <!-- Recommended stable typing -->
 <div align="center" style="background: linear-gradient(to bottom, #1a1b26, #24283b); padding: 24px; border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3200&pause=700&color=9F7AEA&center=true&vCenter=true&width=680&lines=Hey+👋+I'm+Jahir+Hossain;Frontend+Developer;JavaScript+%26+TypeScript+Lover;Building+Beautiful+Web+Experiences" alt="Typing SVG" />
+  <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3200&pause=700&color=9F7AEA&center=true&vCenter=true&width=680&lines=Hey+👋+I'm+Jahir+Hossain;Frontend+Developer;UI%2FUX+Design+%26+Passionate+Creator;Building+Beautiful+Web+Experiences" 
+  alt="Typing SVG"
+/>
 </div>
 </div>
 
@@ -63,7 +66,10 @@
 ### 🛠 Tech Stack
 
 <p align="center" style="margin: 30px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mysql,linux" alt="Tech stack icons" />
+  <img 
+  src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,c,java,git,github,vscode,mysql,linux,figma,oracle,davinci" 
+  alt="Tech stack icons"
+/>
 </p>
 
 ---
