@@ -96,6 +96,28 @@
   Check out my pinned repositories on the profile above for live previews, stars, and code!
 </p>
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=whojahir&theme=tokyonight&no-frame=true&row=1&column=6"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=whojahir&theme=tokyo-night&hide_border=true"
+/>
+
+</div>
+
 <!-- Streak -->
 <p align="center" style="margin-top: 20px;">
   <img src="https://streak-stats.demolab.com?user=whojahir&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=7200" alt="GitHub Streak" />
