@@ -72,8 +72,6 @@
 />
 </p>
 
----
-
 <!-- Stats - use your own deployed instance for reliability -->
 ### 🔥 Featured Projects
 
@@ -124,8 +122,6 @@
 </p>
 
 <br>
-
----
 
 <!-- Footer motivational quote or note -->
 <div align="center" style="margin-top: 40px; color: #a0aec0; font-style: italic;">
