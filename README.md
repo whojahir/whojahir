@@ -104,6 +104,20 @@
 
 </div>
 
+<h2 align="center">🐍 Watching My Contributions Come Alive</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whojahir/whojahir/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whojahir/whojahir/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/whojahir/whojahir/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <i>Every square tells a story of learning, building, and growing 🚀</i>
+</p>
+
 # 📈 Contribution Graph
 
 <div align="center">
