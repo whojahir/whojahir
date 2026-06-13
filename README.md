@@ -97,11 +97,11 @@
 # 🏆 GitHub Trophies
 
 <div align="center">
-
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=whojahir&theme=tokyonight&no-frame=true&row=1&column=6"
-/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=whojahir&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+    width="900"
+  />
 </div>
 
 <h2 align="center">🐍 Watching My Contributions Come Alive</h2>
