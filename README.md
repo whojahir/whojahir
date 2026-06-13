@@ -128,6 +128,10 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+![Jahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=whojahir&show_icons=true&theme=tokyonight)
+
 <!-- Streak -->
 <p align="center" style="margin-top: 20px;">
   <img src="https://streak-stats.demolab.com?user=whojahir&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=7200" alt="GitHub Streak" />
