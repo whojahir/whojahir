@@ -1,145 +1,298 @@
-<!-- Top Animated GIF + Typing Header -->
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding animation" />
-</div>
 
-<div align="center" style="background: linear-gradient(to bottom, #1a1b26, #24283b); padding: 24px; border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); margin: 20px 0;">
-  <!-- Recommended stable typing -->
-<div align="center" style="background: linear-gradient(to bottom, #1a1b26, #24283b); padding: 24px; border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); margin: 20px 0;">
-  <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3200&pause=700&color=9F7AEA&center=true&vCenter=true&width=680&lines=Hey+👋+I'm+Jahir+Hossain;Frontend+Developer;UI%2FUX+Design+%26+Passionate+Creator;Building+Beautiful+Web+Experiences" 
-  alt="Typing SVG"
-/>
-</div>
-</div>
+<img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding animation"/>
 
-<h3 align="center" style="color: #d6bcfa; margin: 12px 0; text-shadow: 1px 1px 3px #000;">Crafting clean, responsive & interactive web apps</h3>
+# 👋 Hey, I'm Jahir Hossain
 
-<!-- Visitor & Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=whojahir&label=Profile+Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
-  &nbsp;&nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=whojahir.whojahir&color=7C3AED&style=flat&label=Visitors" alt="Visitor badge" />
-</div>
+### Full-Stack Developer • MERN Stack
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=9F7AEA&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
 
 <br>
 
-<!-- Right floating GIF + About Me -->
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.25);" alt="Frontend dev gif"/>
+<img src="https://komarev.com/ghpvc/?username=whojahir&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
 
-### 🚀 About Me
-
-- 🌱 Currently exploring **Advanced JavaScript, TypeScript, Responsive Design & Modern Frameworks**
-- 💬 Ask me anything about **HTML • CSS • JavaScript • SQL • Web Performance**
-- 📫 Email: **jahirhossain5851843@gmail.com**
-- ⚡ Fun fact: *I turn late-night ideas and coffee into clean, working web magic.*
-
-<br clear="right"/>
-
-<br>
-
-<!-- Social Links - Combined & Styled -->
-<div align="center" style="margin: 30px 0;">
-  <a href="https://linkedin.com/in/jahir-hossain-62287223a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@jahir9329" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="YouTube" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/wh0jahir" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/whojahir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/whojahir" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" alt="HackerRank" />
-  </a>
 </div>
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 About Me
 
-<p align="center" style="margin: 30px 0;">
-  <img 
-  src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,c,java,git,github,vscode,mysql,linux,figma,oracle,davinci" 
-  alt="Tech stack icons"
-/>
-</p>
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
-<!-- Stats - use your own deployed instance for reliability -->
-### 🔥 Featured Projects
+* 💻 I'm a **B.Tech IT student** and aspiring Full-Stack Developer
+* ⚛️ Currently building applications with the **MERN Stack**
+* 🌱 Currently improving my **React, Node.js, Express.js and MongoDB** skills
+* 🔧 Interested in building **real-world full-stack applications**
+* 🔐 Learning **authentication, REST APIs and backend development**
+* 🧪 Working with **Postman and API testing**
+* 🌐 Learning how to deploy and maintain full-stack applications
+* 📫 Email: **[jahirhossain5851843@gmail.com](mailto:jahirhossain5851843@gmail.com)**
+
+<br clear="right"/>
+
+---
+
+# 🧑‍💻 What I'm Currently Working On
+
+## 🚀 Full-Stack MERN Project
+
+I'm currently working on a **full-stack project using the MERN stack**.
+
+### My current development stack
+
+```text
+Frontend
+   │
+   └── React.js
+          │
+          ▼
+      REST API
+          │
+          ▼
+Backend
+   │
+   ├── Node.js
+   └── Express.js
+          │
+          ▼
+      MongoDB
+```
+
+### 🔨 Currently Learning & Building
+
+* ⚛️ React.js
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🔐 Authentication & Authorization
+* 📡 REST APIs
+* 🧪 Postman
+* 🔄 Frontend–Backend Integration
+* 📦 Git & GitHub
+* 🚀 Full-Stack Deployment
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p align="center">
-  <a href="https://github.com/whojahir/Digital-Clock">
-    <img src="https://img.shields.io/badge/Digital%20Clock-📅-blueviolet?style=for-the-badge&logo=clockify&logoColor=white" alt="Digital Clock" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/whojahir/Calculator">
-    <img src="https://img.shields.io/badge/Calculator-🧮-orange?style=for-the-badge&logo=calculator&logoColor=white" alt="Calculator" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Add more of your repos here -->
-  <a href="https://github.com/whojahir?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-🔍-purple?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" alt="Programming Languages"/>
+
 </p>
 
-<p align="center" style="margin-top: 20px; font-size: 1.1em; color: #d6bcfa;">
-  Check out my pinned repositories on the profile above for live previews, stars, and code!
+### ⚛️ Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Technologies"/>
+
 </p>
+
+### 🟢 Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+
+</p>
+
+### 🍃 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" alt="Databases"/>
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" alt="Development Tools"/>
+
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/whojahir/Digital-Clock">
+<img src="https://img.shields.io/badge/⏰%20Digital%20Clock-6366F1?style=for-the-badge&logo=javascript&logoColor=white" alt="Digital Clock"/>
+</a>
+
+  
+
+<a href="https://github.com/whojahir/Calculator">
+<img src="https://img.shields.io/badge/🧮%20Calculator-F59E0B?style=for-the-badge&logo=javascript&logoColor=white" alt="Calculator"/>
+</a>
+
+  
+
+<a href="https://github.com/whojahir?tab=repositories">
+<img src="https://img.shields.io/badge/📂%20All%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Full-Stack Development
+
+### MERN Architecture
+
+```text
+                    ┌─────────────────┐
+                    │    React.js     │
+                    │    Frontend     │
+                    └────────┬────────┘
+                             │
+                             │ HTTP / JSON
+                             ▼
+                    ┌─────────────────┐
+                    │   Express.js    │
+                    │    REST API     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     Node.js     │
+                    │ Backend Runtime │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    MongoDB      │
+                    │    Database     │
+                    └─────────────────┘
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=whojahir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jahir's GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whojahir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whojahir&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=whojahir&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
 
 # 🏆 GitHub Trophies
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=whojahir&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
-    width="900"
-  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=whojahir&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6" alt="GitHub Trophies"/>
+
 </div>
 
-<h2 align="center">🐍 Watching My Contributions Come Alive</h2>
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whojahir/whojahir/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whojahir/whojahir/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/whojahir/whojahir/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <i>Every square tells a story of learning, building, and growing 🚀</i>
-</p>
-
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=whojahir&theme=tokyo-night&hide_border=true"
-/>
+<img src="https://raw.githubusercontent.com/whojahir/whojahir/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
-## 📊 GitHub Stats
+---
 
-![Jahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=whojahir&show_icons=true&theme=tokyonight)
+# 📚 Currently Learning
 
-<!-- Streak -->
-<p align="center" style="margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com?user=whojahir&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=7200" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<br>
+|     Technology    | Current Focus                        |
+| :---------------: | :----------------------------------- |
+|    ⚛️ React.js    | Components, Hooks & State Management |
+|     🟢 Node.js    | Backend Development                  |
+|   🚂 Express.js   | REST API Development                 |
+|     🍃 MongoDB    | Database & Data Modeling             |
+| 🔐 Authentication | JWT & Authorization                  |
+|    📡 REST API    | Frontend–Backend Communication       |
+|     🧪 Postman    | API Testing                          |
+|  📦 Git & GitHub  | Version Control & Collaboration      |
+|   🚀 Deployment   | Full-Stack Applications              |
 
-<!-- Footer motivational quote or note -->
-<div align="center" style="margin-top: 40px; color: #a0aec0; font-style: italic;">
-  "Code is poetry — let's write something beautiful together ✨"
+</div>
+
+---
+
+# 🎯 My Goals
+
+* [ ] Become a confident **MERN Stack Developer**
+* [ ] Complete my current **full-stack project**
+* [ ] Build more real-world applications
+* [ ] Improve backend development skills
+* [ ] Learn advanced React
+* [ ] Build secure authentication systems
+* [ ] Improve database design
+* [ ] Deploy production-ready applications
+* [ ] Contribute to open-source projects
+* [ ] Build projects that solve real problems
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/jahir-hossain-62287223a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://youtube.com/@jahir9329">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://twitter.com/wh0jahir">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+<a href="https://instagram.com/whojahir">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.hackerrank.com/whojahir">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building. Learning. Improving.
+
+**Thanks for visiting my profile!**
+
 </div>
