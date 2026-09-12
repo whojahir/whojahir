@@ -2,9 +2,8 @@ name: Generate Profile
 
 "on":
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 1 * * *"
 
 permissions:
   contents: write
@@ -15,13 +14,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: whojahir
+          card: stats
+          options: username=whojahir&show_icons=true
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Activity and Achievements
         uses: lowlighter/metrics@latest
