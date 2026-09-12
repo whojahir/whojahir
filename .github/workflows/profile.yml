@@ -1,9 +1,10 @@
 name: Generate Profile
 
-on:
+"on":
   workflow_dispatch:
-  schedule:
-    - cron: "0 1 * * *"
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -13,7 +14,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v1
