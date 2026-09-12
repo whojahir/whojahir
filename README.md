@@ -39,7 +39,7 @@
 
 I'm currently working on a **full-stack project using the MERN stack**.
 
-### My current development stack
+### My Current Development Stack
 
 ```text
 Frontend
@@ -178,9 +178,7 @@ Backend
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=whojahir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jahir's GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whojahir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="./profile/stats.svg" alt="Jahir's GitHub Stats"/>
 
 </div>
 
@@ -190,7 +188,7 @@ Backend
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whojahir&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+<img src="./profile/activity.svg" alt="Jahir's GitHub Activity"/>
 
 </div>
 
