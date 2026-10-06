@@ -33,7 +33,7 @@ jobs:
           user: whojahir
           filename: profile/activity.svg
           base: header, activity, community, repositories
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
 
       - name: Commit generated profile files
